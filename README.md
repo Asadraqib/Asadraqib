@@ -19,7 +19,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,js,react,spring,fastapi,git,github,docker,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,js,git,github,docker,vscode&perline=7" />
 </p>
 
 ## 📊 GitHub Statistics
