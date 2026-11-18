@@ -1,33 +1,94 @@
+<!-- BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00C9A7&height=200&section=header&text=Asad%20Raqib&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Backend%20Development&descAlignY=58&descSize=18" />
+</p>
 
-# <p align="center">👋 Hi, I'm Asad Raqib</p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=BCA+Student+%7C+Aspiring+AI+Engineer;Building+RAG+%26+Backend+Systems;Google+Student+Ambassador;Always+curious.+Always+building." />
+  </a>
+</p>
 
-<p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Asadraqib&label=Profile%20Views&color=0078D4&style=flat" />
+  <img src="https://img.shields.io/github/followers/Asadraqib?label=Followers&style=flat&color=0078D4" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 BCA Student at Amity University Jharkhand
-- 🤖 Interested in Artificial Intelligence, Data Science and Machine Learning
-- 🌱 Currently learning Python, SQL, Statistics and Machine Learning
-- 🔭 Building practical projects involving AI, RAG and Backend Development
-- 🎯 Aspiring to become an AI Engineer
-- ⚡ I love building technology that solves real-world problems.
+I'm a **BCA student at Amity University Jharkhand** (batch of 2028) and a **Google Student Ambassador**, passionate about turning ideas into working software, especially at the intersection of **AI and backend engineering**.
+
+- 🤖 Exploring **Artificial Intelligence, Data Science and Machine Learning**
+- 🔭 Building practical projects around **RAG, microservices and full-stack apps**
+- 🌱 Currently learning **Python, SQL, Statistics and Machine Learning**
+- 🎯 Goal: become an **AI Engineer** who ships real products
+- 🏪 Also run **Greenwich Optical**, which keeps me grounded in real-world business problems
+- ⚡ I love building technology that solves real-world problems
+
+---
 
 ## 🛠️ Tech Stack
 
-<p >
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,js,git,github,docker&perline=7" />
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,c,cpp&perline=7" />
 </p>
 
+**Backend, Databases and Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,react,vite,mysql,git,github,docker,linux,vscode&perline=10" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 📖 [**PaperLike**](https://github.com/Asadraqib/PaperLike) | Reading app with a paper-like texture designed for eye comfort during long sessions | Web |
+| 🧠 **RAG Document Q&A** | Ask questions over your own documents using retrieval-augmented generation | Python, FastAPI, Qdrant |
+| 🍔 **Food Delivery Microservices** | Food delivery platform built as a set of Spring Boot services with a React frontend | Java, Spring Boot, React, Vite |
+| 🛒 **E-Commerce Microservices** | Microservices-based e-commerce system | Java, Spring Boot |
+| 🏭 **Self-Healing Assets ERP** | IoT asset monitoring with AI failure prediction and RAG-based diagnosis | IoT, AI, RAG |
+| 🎵 **Spotify Clone** | Music web app built with vanilla JavaScript | HTML, CSS, JS |
+| 🔌 **Pico OS** | Custom bare-metal OS for the Raspberry Pi Pico W | Embedded, C |
+
+> 📌 Pin your best 6 repositories on your profile so they show up right below this section.
+
+---
+
 ## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Asadraqib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asadraqib&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Asadraqib&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Asadraqib&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asadraqib&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🎯 Currently Working On
+
+- 🔹 Deepening my knowledge of **RAG pipelines and vector databases**
+- 🔹 Building **microservices with Spring Boot**
+- 🔹 Strengthening **SQL, statistics and ML fundamentals**
+
+---
 
 ## 🤝 Connect With Me
 
@@ -38,8 +99,17 @@
   <a href="https://www.linkedin.com/in/asad-raqib-545bb4337/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:asadraqib1786@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
+<p align="center">📧 <a href="mailto:asadraqib1786@gmail.com">asadraqib1786@gmail.com</a></p>
 
 ---
 
 <h3 align="center">✨ Always curious, always learning, and always building! 🚀</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0078D4&height=100&section=footer" />
+</p>
