@@ -1,8 +1,6 @@
 
 # 👋 Hi, I'm Asad Raqib
 
-### 💻 Aspiring AI Engineer | Data Science | Machine Learning
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Asadraqib&label=Profile%20Views&color=0078D4&style=flat" />
 </p>
@@ -18,24 +16,10 @@
 - 🎯 Aspiring to become an AI Engineer
 - ⚡ I love building technology that solves real-world problems.
 
-## 🚀 Currently Working On
-
-| Project | Description |
-|---|---|
-| 🏭 Healix | AI-powered industrial ERP and maintenance platform |
-| 🤖 RAG-Application | AI-powered product research and price intelligence application |
-
-## 🏆 Certifications & Achievements
-
-- 🏅 Microsoft Azure Fundamentals (AZ-900)
-- 🏅 SAP Generative AI Developer Certification
-- 🏅 NPTEL Joy of Computing using Python – 94%
-- 🌟 Google Gemini Student Ambassador
-
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,mysql,html,css,js,react,spring,fastapi,git,github,docker,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,js,react,spring,fastapi,git,github,docker,vscode&perline=7" />
 </p>
 
 ## 📊 GitHub Statistics
@@ -49,11 +33,6 @@
   <img src="https://streak-stats.demolab.com?user=Asadraqib&theme=tokyonight&hide_border=true" />
 </p>
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asadraqib&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
 
 ## 🤝 Connect With Me
 
@@ -61,7 +40,7 @@
   <a href="https://github.com/Asadraqib">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/asad-raqib/">
+  <a href="https://www.linkedin.com/in/asad-raqib-545bb4337/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
