@@ -1,13 +1,9 @@
 
 # <p align="center">👋 Hi, I'm Asad Raqib</p>
-
 <p>
   <img src="https://komarev.com/ghpvc/?username=Asadraqib&label=Profile%20Views&color=0078D4&style=flat" />
 </p>
-### BCA student at Amity University Jharkhand, passionate about Artificial Intelligence, Data Science, and Machine Learning. Currently exploring Python, SQL, Statistics, and Machine Learning while 
-### building practical projects involving AI, RAG, and Backend Development. Aspiring to become an AI Engineer, I enjoy building innovative technologies and solving real-world problems through code.
 ---
-
 ## 👨‍💻 About Me
 
 - 🎓 BCA Student at Amity University Jharkhand
