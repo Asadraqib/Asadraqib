@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Asad Raqib
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=Asadraqib&label=Profile%20Views&color=0078D4&style=flat" />
 </p>
 
