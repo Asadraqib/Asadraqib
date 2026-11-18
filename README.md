@@ -19,12 +19,12 @@
 ## 🛠️ Tech Stack
 
 <p >
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,js,git,github,docker,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,js,git,github,docker&perline=7" />
 </p>
 
 ## 📊 GitHub Statistics
 
-<p >
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=Asadraqib&theme=tokyonight&hide_border=true" />
 </p>
 
