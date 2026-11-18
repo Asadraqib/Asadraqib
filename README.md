@@ -59,10 +59,6 @@
   <img src="https://streak-stats.demolab.com?user=Asadraqib&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Asadraqib&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-</p>
-
 ---
 
 ## 🎯 Currently Working On
