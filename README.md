@@ -18,17 +18,13 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<p >
   <img src="https://skillicons.dev/icons?i=python,java,mysql,js,git,github,docker,vscode&perline=7" />
 </p>
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asadraqib&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
+<p >
   <img src="https://streak-stats.demolab.com?user=Asadraqib&theme=tokyonight&hide_border=true" />
 </p>
 
