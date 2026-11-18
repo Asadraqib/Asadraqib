@@ -56,20 +56,11 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Asadraqib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asadraqib&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Asadraqib&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Asadraqib&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asadraqib&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
