@@ -18,8 +18,6 @@
 
 ## 👨‍💻 About Me
 
-I'm a **BCA student at Amity University Jharkhand** (batch of 2028) and a **Google Student Ambassador**, passionate about turning ideas into working software, especially at the intersection of **AI and backend engineering**.
-
 - 🤖 Exploring **Artificial Intelligence, Data Science and Machine Learning**
 - 🔭 Building practical projects around **RAG, microservices and full-stack apps**
 - 🌱 Currently learning **Python, SQL, Statistics and Machine Learning**
@@ -34,13 +32,13 @@ I'm a **BCA student at Amity University Jharkhand** (batch of 2028) and a **Goog
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,c,cpp&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,java&perline=7" />
 </p>
 
 **Backend, Databases and Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,react,vite,mysql,git,github,docker,linux,vscode&perline=10" />
+  <img src="https://skillicons.dev/icons?i=spring,mysql,git,github,docker,vscode&perline=10" />
 </p>
 
 ---
@@ -51,13 +49,7 @@ I'm a **BCA student at Amity University Jharkhand** (batch of 2028) and a **Goog
 |---|---|---|
 | 📖 [**PaperLike**](https://github.com/Asadraqib/PaperLike) | Reading app with a paper-like texture designed for eye comfort during long sessions | Web |
 | 🧠 **RAG Document Q&A** | Ask questions over your own documents using retrieval-augmented generation | Python, FastAPI, Qdrant |
-| 🍔 **Food Delivery Microservices** | Food delivery platform built as a set of Spring Boot services with a React frontend | Java, Spring Boot, React, Vite |
-| 🛒 **E-Commerce Microservices** | Microservices-based e-commerce system | Java, Spring Boot |
 | 🏭 **Self-Healing Assets ERP** | IoT asset monitoring with AI failure prediction and RAG-based diagnosis | IoT, AI, RAG |
-| 🎵 **Spotify Clone** | Music web app built with vanilla JavaScript | HTML, CSS, JS |
-| 🔌 **Pico OS** | Custom bare-metal OS for the Raspberry Pi Pico W | Embedded, C |
-
-> 📌 Pin your best 6 repositories on your profile so they show up right below this section.
 
 ---
 
